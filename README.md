@@ -37,10 +37,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oussama-kaddech&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=oussamakaddech&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-kaddech&theme=radical" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakaddech&theme=radical" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
