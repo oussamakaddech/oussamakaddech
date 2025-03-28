@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" height="200" src="https://64.media.tumblr.com/eb3b49ffd5a6269c9c95957acd6b8b13/a239df1680b6ac38-dc/s540x810/0b474660939c58be3aeca37ad4c1d5a967625c15.gifv" />
+<img align="right" height="200" src="[https://64.media.tumblr.com/eb3b49ffd5a6269c9c95957acd6b8b13/a239df1680b6ac38-dc/s540x810/0b474660939c58be3aeca37ad4c1d5a967625c15.gifv](https://giffiles.alphacoders.com/215/215611.gif)" />
 
 ### 🚀 **About Me**
 🔹 Passionate **Full-Stack Developer**  
